@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="sumanrajsharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sumanrajsharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-theta-six.vercel.app/api?username=sumanrajsharma&show_icons=true&hide_border=true" />
+</details>
 
 [twitter]: https://twitter.com/sumanrajsharma
 [instagram]: https://instagram.com/sumanrajsharma
