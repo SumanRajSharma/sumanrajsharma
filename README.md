@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Machine Learning model using Deep Learning to predict wether or nor a borrower will pay back their loan?   
+- 🔭 I’m currently working on a Machine Learning model using Deep Learning to predict wether or not a borrower will pay back their loan?   
 - 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking to collaborate on several Data Science projects
 - 📫 How to reach me: via social media handles
