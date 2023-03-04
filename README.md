@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Machine Learning model for Sentiment Analaysis on YouTube video comments   
-- 🌱 I’m currently learning TensorFlow
+- 🔭 I’m currently working on Docker-Driven Data Pipelines
+- 🌱 I’m currently learning Terraform and BigQuery
 - 👯 I’m looking to collaborate on several Data Science projects
 - 📫 How to reach me: via social media handles
 
